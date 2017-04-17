@@ -73,7 +73,6 @@
 @import './imports/_svg';
 @import './imports/_cms';
 @import './imports/gradient';
-@import './imports/bootstrap';
 
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
