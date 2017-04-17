@@ -1,30 +1,27 @@
 {{ partial "head" . }}
 
-<article>
-  <header class="ibiza ubuntu">
-    <div class="mw9 center pa4 pt5-ns ph7-l">
-      <time class="f3 mb2 dib ttu tracked"><small>{{ .Date.Format "2 Jan, 2006" }}</small></time>
-      <h3 class=" display-3 measure-narrow lh-title mv0">
-        <span class="bg-black lh-copy white pa1 tracked-tight">
-          {{.Title}}
-        </span>
-      </h3>
-      <h5 class="f3 fw1 georgia i">Read in {{ .ReadingTime }} minutes</h5>
-      <h5 class="f6 ttu tracked black-80">Oleh: Oka bRionZ</h5>
-    </div>
+<article class="baskerville pb5">
+<header class="avenir tc-l ph3 ph4-ns pt4 pt2-ns">
+    <h1 class="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">{{.Title}}</h1>
+    <time class="f5 f4-l db fw1 baskerville mb4"> March 19th, 2015 - Read in {{ .ReadingTime }} minutes</time>
+    {{ if .Params.image }}<img class="w-100 dib measure f3 pb2" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
   </header>
-    {{ partial "nav" . }}
-    <div class="container mt-2">
-      <p class="f5 f3-ns lh-copy measure georgia">
-        {{ .Description }}
+  {{ partial "nav" . }}
+  <div class="ph3 ph4-m ph5-l">
+    <p class="f4 mb4 center measure lh-copy">
+      {{ .Description }} </p>
+    <div class="measure db center f5 f4-ns lh-copy">
+      <p>
+        {{ .Content }}
       </p>
-      {{ if .Params.image }}<img class="img-fluid" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      <h5 class="f6 ttu tracked black">Oleh:<a href="/okabrionz"> Oka bRionZ</a></h5>
     </div>
-  <div class="container">
-    <p class="lead">
-    {{ .Content }}
-  </p>
   </div>
 </article>
-{{ partial "blog" . }}
+
+<div class="tc mb3">
+			<a href="/post" class="btn btn-outline-warning raise">Artikel Lainnya <i class="fa fa-caret-right" aria-hidden="true"></i> 
+ </a>
+		</div>
+
 {{ partial "footer" . }}
