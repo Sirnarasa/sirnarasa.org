@@ -1,24 +1,20 @@
 ---
-title: Our Coffee
+title: Sirnarasa
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer
+image: /img/IMG_9395.JPG
+heading: Kajembaran Rohmaniyyah
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Pesantren Peradaban Dunia dan Destinasi Wisata Religi dan Budaya Indonesia.
+  Yayasan Pesantren Sirnarasa Cisiri, Kajembaran Rohmaniyyah.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations/coffee-gear.svg
+    - image: /img/P_20160418_091207.jpg
+      text: >-
+        Manakib yang digelar setiap akhir bulan hijriyah yang bertempat di Komp.
+        Pesantren Sirnarasa Cisirri. Ikhwan hadir dari seluruh pelosok Indonesia
+        dan bahkan Luar Negri.
+    - image: /img/P_20160418_090803.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -38,12 +34,10 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Apa Itu Sirnarasa?
+  description: >-
+    Sirnarasa adalah nama Pesantren yang bertempat di Dusun. Cisirri, Desa.
+    Ciomas Kecamatan Panjalu di Kabupaten Ciamis - Jawa Barat.
 main:
   heading: Great coffee with no compromises
   description: >
