@@ -1,40 +1,36 @@
 ---
-title: Sirnarasa
+title: Tentang Sirnarasa
 type: products
 page: /products.html
-image: /img/IMG_9395.JPG
+image: /img/masjid-1.jpg
 heading: Kajembaran Rohmaniyyah
 description: >-
   Pesantren Peradaban Dunia dan Destinasi Wisata Religi dan Budaya Indonesia.
   Yayasan Pesantren Sirnarasa Cisiri, Kajembaran Rohmaniyyah.
 intro:
   blurbs:
-    - image: /img/P_20160418_091207.jpg
+    - image: /img/Ceramah-Abah-Jagat.jpg
       text: >-
         Manakib yang digelar setiap akhir bulan hijriyah yang bertempat di Komp.
         Pesantren Sirnarasa Cisirri. Ikhwan hadir dari seluruh pelosok Indonesia
         dan bahkan Luar Negri.
-    - image: /img/P_20160418_090803.jpg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations/tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations/meeting-space.svg
+    - image: /img/Gerbang-Pasantren-Sirnarasa.jpg
+      text: >-
+        Gerbang Pasantren Sirnarasa "Kajembaran Rohmaniyyah" Saat Manakib
+        bulanan. Ikhwan wal Akhwat datang dari Dalam dan luar Negeri.
+    - image: /img/debaan-tiap-ahad.jpg
+      text: >-
+        Sholawat Nabi (Debaan) yang dilaksanaksanakan tiap Ahad pagi di Masjid
+        yang di pimpin oleh Ketua Yayasan Sirnarasa (KH. Dadang Muliawan) dan
+        Pengurus santri.
+    - image: /img/041-earth-day-2.svg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: Apa Itu Sirnarasa?
+  heading: Sedikit Tentang Sirnarasa?
   description: >-
     Sirnarasa adalah nama Pesantren yang bertempat di Dusun. Cisirri, Desa.
     Ciomas Kecamatan Panjalu di Kabupaten Ciamis - Jawa Barat.
