@@ -17,12 +17,12 @@ export default class PostPreview extends React.Component {
       }}>
         <div className="mw7 center ph3">
           <div className="db mb3">
-            <div className="mw7 relative bg-fix-primary mb3">
-              <h1 className="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
+            <div className="mw7 relative bg-fix-primar mb3">
+              <h1 className="f2 f1-l b di lh-title mb3 white mw6 bg-primar">
                 { entry.getIn(["data", "title"]) }
               </h1>
             </div>
-            <div className="mw7 relative bg-fix-primary">
+            <div className="mw7 relative bg-fix-primar">
             </div>
           </div>
         </div>
@@ -68,7 +68,7 @@ export default class PostPreview extends React.Component {
 
       <div className="pb4">
         {(entry.getIn(['data', 'testimonials']) || []).map((testimonial, index) => <div className="center mb3 ph3" key={index}>
-        	<blockquote className="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
+        	<blockquote className="bg-grey-1 primar pa3 mb3 br1 b mw6 center">
         		<p className="f4 mb0">“{testimonial.get('quote')}”</p>
         		<cite className="tr db grey-3">{testimonial.get('author')}</cite>
         	</blockquote>
@@ -89,7 +89,7 @@ export default class PostPreview extends React.Component {
 
               	<h3 className="b f5 grey-3 tc lh-title mb3">{plan.get('plan')}</h3>
 
-              	<p className="primary f1 b tc lh-title center">
+              	<p className="primar f1 b tc lh-title center">
               		<span className="f4">$</span>{plan.get('price')}
               	</p>
 
