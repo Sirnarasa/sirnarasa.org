@@ -18,14 +18,12 @@ intro:
       text: >-
         Gerbang Pasantren Sirnarasa "Kajembaran Rohmaniyyah" Saat Manakib
         bulanan. Ikhwan wal Akhwat datang dari Dalam dan luar Negeri.
-    - image: /img/illustrations/tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations/meeting-space.svg
+    - image: /img/debaan-tiap-ahad.jpg
+      text: >-
+        Sholawat Nabi (Debaan) yang dilaksanaksanakan tiap Ahad pagi di Masjid
+        yang di pimpin oleh Ketua Yayasan Sirnarasa (KH. Dadang Muliawan) dan
+        Pengurus santri.
+    - image: /img/041-earth-day-2.svg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
