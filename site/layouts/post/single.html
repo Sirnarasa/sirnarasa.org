@@ -1,12 +1,12 @@
 {{ partial "head" . }}
+{{ partial "nav" . }}
 
 <article class="baskerville pb5">
 <header class="avenir tc-l ph3 ph4-ns pt4 pt2-ns">
-    <h1 class="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">{{.Title}}</h1>
+    <h1 class="ttc f3 f2-m f-subheadline-l measure lh-title fw1 mt0">{{.Title}}</h1>
     <time class="f5 f4-l db fw1 baskerville mb4"> March 19th, 2015 - Read in {{ .ReadingTime }} minutes</time>
     {{ if .Params.image }}<img class="w-100 dib measure f3 pb2" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
   </header>
-  {{ partial "nav" . }}
   <div class="ph3 ph4-m ph5-l">
     <p class="f4 mb4 center measure lh-copy">
       {{ .Description }} </p>
