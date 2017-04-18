@@ -1,5 +1,5 @@
 ---
-title: Tentang Sirnarasa
+title: Belajar di Sirnarasa
 type: products
 page: /products.html
 image: /img/masjid-1.jpg
@@ -9,11 +9,6 @@ description: >-
   Yayasan Pesantren Sirnarasa Cisiri, Kajembaran Rohmaniyyah.
 intro:
   blurbs:
-    - image: /img/Ceramah-Abah-Jagat.jpg
-      text: >-
-        Manakib yang digelar setiap akhir bulan hijriyah yang bertempat di Komp.
-        Pesantren Sirnarasa Cisirri. Ikhwan hadir dari seluruh pelosok Indonesia
-        dan bahkan Luar Negri.
     - image: /img/Gerbang-Pasantren-Sirnarasa.jpg
       text: >-
         Gerbang Pasantren Sirnarasa "Kajembaran Rohmaniyyah" Saat Manakib
@@ -23,70 +18,49 @@ intro:
         Sholawat Nabi (Debaan) yang dilaksanaksanakan tiap Ahad pagi di Masjid
         yang di pimpin oleh Ketua Yayasan Sirnarasa (KH. Dadang Muliawan) dan
         Pengurus santri.
-    - image: /img/041-earth-day-2.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/stid-narsiss.jpg
+      text: >-
+        Mahasiswa STID Sirnarasa bersama Ketua Yayasan Sirnarasa Cisirri beserta
+        Istri.
+    - image: /img/Ceramah-Abah-Jagat.jpg
+      text: >-
+        Manakib yang digelar setiap akhir bulan hijriyah yang bertempat di Komp.
+        Pesantren Sirnarasa Cisirri. Ikhwan hadir dari seluruh pelosok Indonesia
+        dan bahkan Luar Negri.
   heading: Sedikit Tentang Sirnarasa?
   description: >-
     Sirnarasa adalah nama Pesantren yang bertempat di Dusun. Cisirri, Desa.
     Ciomas Kecamatan Panjalu di Kabupaten Ciamis - Jawa Barat.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Lorem Heula
+  description: >-
+    Uniquely embrace sustainable benefits after installed base models.
+    Rapidiously deploy high-payoff opportunities for cutting-edge best
+    practices. Phosfluorescently underwhelm global leadership skills vis-a-vis
+    leading-edge web services. Interactively monetize optimal initiatives
+    vis-a-vis magnetic opportunities. Enthusiastically leverage other's low-risk
+    high-yield products before market-driven deliverables.
+
+
+    Conveniently innovate leading-edge quality vectors after best-of-breed.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products/products-grid3.jpg
+    image: /img/mic-ram.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
+    image: /img/colorful-paper.jpg
   image3:
     alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    image: /img/seni-kayu.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products/products-full-width.jpg
+  - author: Syeikh Muhammad Abdul Gaos.
+    quote: 'Amankan, Amalkan, Lestarikan Manakib.'
+  - author: Syeikh Muhammad Abdul Gaos.
+    quote: 'Bicara benar, atau diam!'
+full_image: /img/Cover-Sirnarasa.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+  heading: Sirnarasa
+  description: 'Untuk Kejayaan Agama, Negara, Ketahanan NKRI, dan Peradaban Dunia.'
+  plans: []
 ---
 
