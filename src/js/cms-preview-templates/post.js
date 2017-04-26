@@ -2,7 +2,7 @@ import React from "react";
 import format from "date-fns/format";
 
 export default class PostPreview extends React.Component {
-  render() {
+  render() {           
     const {entry, widgetFor} = this.props;
 
     return <div className="mw7 center ph3 pv4">
