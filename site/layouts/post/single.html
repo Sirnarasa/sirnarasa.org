@@ -3,7 +3,7 @@
 
 <article class="baskerville pb5">
 <header class="avenir tc-l ph3 ph4-ns pt4 pt2-ns">
-    <h1 class="ttc f3 f2-m f-subheadline-l measure lh-title fw1 mt0">{{.Title}}</h1>
+    <h1 class="ttc f3 f2-m f-subheadline-l measure lh-title fw1 mt0"><strong>{{.Title}}</strong></h1>
     <time class="f5 f4-l db fw1 baskerville mb4"> {{ .Date.Format "2 Jan, 2006" }} - Read in {{ .ReadingTime }} minutes</time>
     {{ if .Params.image }}<img class="w-100 dib measure f3 pb2" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
   </header>
@@ -14,7 +14,7 @@
       <p>
         {{ .Content }}
       </p>
-      <small class="f6 ttu tracked black">Oleh:<a href="/okabrionz"> Admin Sirnarasa</a></small>
+      <small class="f6 ttu tracked black">Oleh:<a href="/team-redaksi"> Team Redaksi</a></small>
     </div>
   </div>
 </article>

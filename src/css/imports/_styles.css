@@ -13,3 +13,10 @@
     box-shadow: inset 0 -4px 0 var(--primar);
   }
 }
+.text-kuning {
+  color: #F2C94C !important;
+}
+
+a.text-kuning:focus, a.text-kuning:hover {
+  color: #ec971f !important;
+}
