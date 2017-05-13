@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Homepage</title>
+    <title>Posts on Kajembaran Rohmaniyyah</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Homepage</description>
+    <description>Recent content in Posts on Kajembaran Rohmaniyyah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2017 15:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 09:08:08 +0700</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Berita 17 April 2017</title>
+      <link>/post/berita-17/</link>
+      <pubDate>Sun, 30 Apr 2017 09:08:08 +0700</pubDate>
+      
+      <guid>/post/berita-17/</guid>
+      <description>Officia culpa do ut aliqua anim magna tempor quis non sint. Qui ea excepteur eu nulla do ipsum eu minim veniam. Exercitation eiusmod id adipisicing consequat ullamco.</description>
+    </item>
     
     <item>
       <title>A beginners’ guide to brewing with Chemex</title>
